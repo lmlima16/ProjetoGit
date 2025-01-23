@@ -1,18 +1,32 @@
 ## Introdução
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Neste momento estarei utilizando o Readme.me para estar me familiarizando e assim incluindo minhas anotações de aula desse projeto.
 
 ## Estrutura da Pasta
 
-The workspace contains two folders by default, where:
+A principio a estrutura de pasta vai ser conforme demanda de exercicios do curso.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Procedimento realizado
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+  - As variaveis devem ter "Tipo" nome e valor
+  - Exercicio 1 anatomia da classe
+   o aprendizado me levou a conhecer o método "Public Classe" o qual é 99% utilizado nos inicios de projeto .java
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+  - Em sequencia é estabelecido o nome da Classe o qual deve ser iniciado com letra mauiuscula e, quando existir mais de uma palavra deve-se seguir com a inserção, no inicio da segunda palavra com letra mauiscula.
 
-## Gestão de Dependências
+  - A abertura de chave { inicia um método, o fechamento da chave finaliza o método } Obs. a primeira dupla de chave caracteriza o método principal.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+  - apartir de então deve-se iniciar a implementação do projeto atraves do código fonte que também é chamado de método
+
+  - No exemplo foi iniciado com 
+  public static void main (string) [] args) {
+
+    system.out.println ("Olá mundo!");
+
+  }
+
+  }
+
+## Outras informações
+
+Desta forma foi implemetado o primeiro exercicio
